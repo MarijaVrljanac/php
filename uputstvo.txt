@@ -1,0 +1,1 @@
+config.php, index.php, logout.php -> login and register 
